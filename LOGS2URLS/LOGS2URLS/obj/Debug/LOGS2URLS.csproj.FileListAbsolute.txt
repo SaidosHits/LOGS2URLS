@@ -1,0 +1,7 @@
+C:\Users\saidl\source\repos\LOGS2URLS\LOGS2URLS\bin\Debug\LOGS2URLS.exe.config
+C:\Users\saidl\source\repos\LOGS2URLS\LOGS2URLS\bin\Debug\LOGS2URLS.exe
+C:\Users\saidl\source\repos\LOGS2URLS\LOGS2URLS\bin\Debug\LOGS2URLS.pdb
+C:\Users\saidl\source\repos\LOGS2URLS\LOGS2URLS\obj\Debug\LOGS2URLS.csproj.AssemblyReference.cache
+C:\Users\saidl\source\repos\LOGS2URLS\LOGS2URLS\obj\Debug\LOGS2URLS.csproj.CoreCompileInputs.cache
+C:\Users\saidl\source\repos\LOGS2URLS\LOGS2URLS\obj\Debug\LOGS2URLS.exe
+C:\Users\saidl\source\repos\LOGS2URLS\LOGS2URLS\obj\Debug\LOGS2URLS.pdb
